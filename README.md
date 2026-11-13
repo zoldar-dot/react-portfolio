@@ -1,4 +1,4 @@
-# Ari Morgan Portfolio
+# Akolawole Abdulazeez Portfolio
 
 A responsive personal portfolio website built with React JS for Project 13 from the New Horizon React project assignment.
 
